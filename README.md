@@ -1,6 +1,7 @@
 # RGBoard
 An RP2040-based devboard with an integrated neopixel. Designed based off the Blueprint starter project tutorial, I made this to get better at integrating my own MCUs into projects to make them more streamlined instead of spamming devboards of all kinds everywhere. In the process, I learned a lot, especially with using KiCad in a more efficient way and JLCPCB assembly services. I'll be able to apply this knowledge to lots of things in the future, such as flight computers or motherboards.
 
+<img width="407" height="817" alt="image" src="https://github.com/user-attachments/assets/92b9ffb7-6612-4105-8216-bff67d2ca0c8" />
 <img width="1181" height="818" alt="image" src="https://github.com/user-attachments/assets/5061edc2-dc27-4537-a6ad-9fb0291cb5de" />
 <img width="443" height="973" alt="image" src="https://github.com/user-attachments/assets/08e530fe-05e9-4f0d-8f65-63cb61c8f94a" />
 
